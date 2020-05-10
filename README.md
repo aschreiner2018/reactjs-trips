@@ -2,15 +2,15 @@ Projeto criado para simular uma agência de viagens e suas reservas, com o objet
 
 ### Bibliotecas utilizadas
 
-## react-router-dom
-## axios
-## history
-## immer
-## redux
-## react-redux
-## redux-saga
-## react-icons
-## json-server
+• react-router-dom
+• axios
+• history
+• immer
+• redux
+• react-redux
+• redux-saga
+• react-icons
+• json-server
 
 ### Para testar
 
