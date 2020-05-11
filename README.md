@@ -1,4 +1,4 @@
-Projeto criado para simular uma agência de viagens e suas reservas, com o objetivo de utilizar em conjunto as tecnologias Redux com Redux Saga.
+Projeto criado em React JS para simular uma agência de viagens e suas reservas, com o objetivo de utilizar em conjunto as tecnologias Redux com Redux Saga.
 
 ### Bibliotecas utilizadas
 
