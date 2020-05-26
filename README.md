@@ -19,3 +19,8 @@ npm start
 
 ### backend
 json-server server.json -p 3333
+
+### screenshots
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
